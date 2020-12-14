@@ -1,0 +1,12 @@
+F:\Mes Cours\DITI4\C#\TP\TP9\Projet2020\WcfDiti\bin\WcfDiti.dll.config
+F:\Mes Cours\DITI4\C#\TP\TP9\Projet2020\WcfDiti\bin\WcfDiti.dll
+F:\Mes Cours\DITI4\C#\TP\TP9\Projet2020\WcfDiti\bin\WcfDiti.pdb
+F:\Mes Cours\DITI4\C#\TP\TP9\Projet2020\WcfDiti\bin\EntityFramework.dll
+F:\Mes Cours\DITI4\C#\TP\TP9\Projet2020\WcfDiti\bin\EntityFramework.SqlServer.dll
+F:\Mes Cours\DITI4\C#\TP\TP9\Projet2020\WcfDiti\bin\EntityFramework.xml
+F:\Mes Cours\DITI4\C#\TP\TP9\Projet2020\WcfDiti\bin\EntityFramework.SqlServer.xml
+F:\Mes Cours\DITI4\C#\TP\TP9\Projet2020\WcfDiti\obj\Debug\WcfDiti.csproj.CoreCompileInputs.cache
+F:\Mes Cours\DITI4\C#\TP\TP9\Projet2020\WcfDiti\obj\Debug\WcfDiti.csproj.CopyComplete
+F:\Mes Cours\DITI4\C#\TP\TP9\Projet2020\WcfDiti\obj\Debug\WcfDiti.dll
+F:\Mes Cours\DITI4\C#\TP\TP9\Projet2020\WcfDiti\obj\Debug\WcfDiti.pdb
+F:\Mes Cours\DITI4\C#\TP\TP9\Projet2020\WcfDiti\obj\Debug\WcfDiti.csprojAssemblyReference.cache
